@@ -6,6 +6,8 @@ authors = ["bachir <bachir.mourabit.pro@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+files = "^1.1.1"
+configparser = "^5.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
